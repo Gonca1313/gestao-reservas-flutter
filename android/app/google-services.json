@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680050997560",
+    "project_id": "gestao101-4d1cd",
+    "storage_bucket": "gestao101-4d1cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680050997560:android:fd6b2593f816945cf069cd",
+        "android_client_info": {
+          "package_name": "com.example.gestao_salas_equipamentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-SNoJFNXblL8-QbTPkDeQD-ezDwH_1oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
